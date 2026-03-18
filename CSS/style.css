@@ -219,7 +219,7 @@ ul img.photolist {
 }
 
 ul img.photolist:hover {
-    transform: scale(1.7);
+    transform: scale(1.4);
     z-index: 10;
 }
 
