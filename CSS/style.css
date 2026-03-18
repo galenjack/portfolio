@@ -401,6 +401,7 @@ ul.index-menu li {
     width: max-content;
     opacity: 0;
     pointer-events: none;
+    transition: opacity 0.5s ease;
     z-index: 5;
 }
 
